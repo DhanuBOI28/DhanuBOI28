@@ -39,12 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DhanuBoi28/DhanuBoi28/output/snake.svg" alt="Snake animation" />
-
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=DhanuBoi28.DhanuBoi28&left_color=azure"  />
 
 ###
