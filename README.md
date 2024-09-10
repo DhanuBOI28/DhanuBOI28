@@ -41,7 +41,7 @@
 
 ###
 
-<img align="right" height="150" src="https://pin.it/7HDYI1iUu"  />
+<img align="right" height="150" src="https://images.app.goo.gl/8X8zfEuRj1dh5gNMA"  />
 
 ###
 
