@@ -42,7 +42,7 @@
 ###
 
 <img align="right" height="150" src="
-yoriichi-demon-slayer.gif"  />
+/yoriichi-demon-slayer.gif"  />
 
 ###
 
