@@ -41,7 +41,8 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bQote.gif"  />
+<img align="right" height="150" src="
+yoriichi-demon-slayer.gif"  />
 
 ###
 
